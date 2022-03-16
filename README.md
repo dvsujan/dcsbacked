@@ -110,13 +110,13 @@ npm run start //to start the server
 
 ## Example accounts
 
-#admin
+# admin
 
 - email - dvsujan@gmail.com  
 
 - password - Sujan@2003
 
-#user
+# user
 
 - email - pythonmail73@gmail.com
 
