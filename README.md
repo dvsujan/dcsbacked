@@ -106,7 +106,21 @@ npm run start //to start the server
     ```Allows you to edit review of movie```
     
     - [Delete]url/api/movies/:movieId
-    ```allows you to delete review of the movieId```
+    ```allows you to delete review of the movieId``
+
+## Example accounts
+
+#admin
+
+- email - dvsujan@gmail.com  
+
+- password - Sujan@2003
+
+#user
+
+- email - pythonmail73@gmail.com
+
+- password - Sujan@2003
 
 # Licence
 Copyright 2022 dvsujan
